@@ -5,5 +5,6 @@ public class Class1 {
 		System.out.println("Master Changes");
 		System.out.println("Branch Demo Changes ");
 		System.out.println("Master rebase Changes ");
+		System.out.println("Branch Rebase Changes ");
 	}
 }
