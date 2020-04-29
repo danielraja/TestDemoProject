@@ -16,5 +16,6 @@ public class App {
 		System.out.println("added by master for conflict check");
 		System.out.println("added by master changes again here   for conflict check again");
 		System.out.println("added by dev changes dev master1 master master");
+		System.out.println("added by dev changes dev master1 dev dev dev");
 	}
 }
