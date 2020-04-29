@@ -11,6 +11,7 @@ public class App {
 		System.out.println("Added by brnach demo");
 		System.out.println("added by master1");
 		System.out.println("added by master1 added by master");
+		System.out.println("added by developer for feature one");
 		System.out.println("added by master1");
 		System.out.println("added by master for conflict check");
 		System.out.println("added by master for conflict check again");
