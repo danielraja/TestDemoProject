@@ -10,5 +10,6 @@ public class App {
 		System.out.println("Changed by master");
 		System.out.println("Added by brnach demo");
 		System.out.println("added by master1");
+		System.out.println("added by dev 1");
 	}
 }
