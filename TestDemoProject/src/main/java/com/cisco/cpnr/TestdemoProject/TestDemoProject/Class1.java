@@ -8,5 +8,6 @@ public class Class1 {
 		System.out.println("Branch Rebase Changes ");
 		System.out.println("Added by master");
 		System.out.println("Changes made by master");
+		System.out.println("Updated Class 1 Changes made by master");
 	}
 }
